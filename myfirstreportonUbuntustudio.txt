@@ -1,0 +1,28 @@
+UbuntuStudio is a linux based operating system.It is designed as a free open and powerful platform. It is easy to download and use. 
+Creative people use it to make new things.It is a community project. UbuntuStudio is the most widely used multimedia 
+orientated GNU/Linux distribution in the world.
+Contents:
+Audio
+Graphics
+Video
+Photography
+Publishing
+
+Now we go to a tour to explore the areas.
+Audio:
+Some of the software tools are going to be described. 
+First one is Jack which is a low latency capable audio and midi server,designed for professional use. 
+Second one is Ardour. It is a Digital Audio Workstation, switable for recording, mixing and mastering.
+Others are Sequencers and Synthesizers,Virtual Guiter arms etc.
+
+Graphics:
+Some of the tools are:
+Blender,Inkscape,GIMP,MyPaint and Pikopixel.
+
+
+Video:
+Openshot,FEMPEG,DVDstyler.
+
+
+Photography:
+Darktable and shotwell.
